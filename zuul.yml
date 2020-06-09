@@ -1,6 +1,3 @@
-spring:
-  application:
-    name: server-zuul #此实例注册到eureka服务端的name
 eureka:
   client:
     serviceUrl:
