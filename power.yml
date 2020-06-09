@@ -1,5 +1,6 @@
-server:
-  port: 6000
+spring:
+  application:
+    name: server-power #此实例注册到eureka服务端的name
 eureka:
   client:
     serviceUrl:
